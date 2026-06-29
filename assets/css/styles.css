@@ -4,6 +4,6 @@
 	font-family: Arial;
 }
 
-.col {
-	border: 1px solid rgba(255, 0, 0, 0.675);
+.col, .col-4, .col-8 {
+	border: 1px solid rgba(0, 132, 255, 0.675);
 }
